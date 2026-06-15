@@ -8,7 +8,9 @@ dependencies = [
     "jupyter>=1.1.1",
     "minsearch>=0.1.0",
     "openai>=2.41.1",
+    "pydantic>=2.13.4",
     "python-dotenv>=1.2.2",
     "requests>=2.34.2",
     "sqlitesearch>=0.1.0",
+    "toyaikit>=0.0.11",
 ]
