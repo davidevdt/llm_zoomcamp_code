@@ -5,3 +5,5 @@ faq.db*
 *.db
 *.db-shm 
 *.db-wal
+*.onnx 
+tokenizer.json 
