@@ -6,13 +6,18 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "gitsource>=0.0.5",
+    "huggingface-hub>=1.19.0",
     "jupyter>=1.1.1",
     "minsearch>=0.1.0",
+    "numpy>=2.4.6",
+    "onnxruntime>=1.27.0",
     "openai>=2.41.1",
     "pydantic>=2.13.4",
     "python-dotenv>=1.2.2",
     "requests>=2.34.2",
     "sentence-transformers>=5.5.1",
     "sqlitesearch>=0.1.0",
+    "tokenizers>=0.22.2",
     "toyaikit>=0.0.11",
+    "tqdm>=4.68.2",
 ]
