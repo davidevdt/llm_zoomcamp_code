@@ -19,3 +19,5 @@ Include the key using
 cp .env.example .env
 ```
 and pasting your key into the corresponding env variable.
+
+For `module 3 - orchestration` (lessons and homework) you also need the Google Gemini API key and the Tavily API key.  
